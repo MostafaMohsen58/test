@@ -26,7 +26,6 @@ The **Inventory Management System** is a **desktop application** built with **C#
 ## 🔹 Step 3: Application Setup
 
 1.  Open the project in Visual Studio.
-2.  Restore NuGet packages (Entity Framework Core, Dapper, etc.).
 3.  Build the solution to ensure all dependencies are installed.
 4.  Run database migrations if using EF Core:
 

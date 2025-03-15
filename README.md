@@ -1,6 +1,14 @@
 # Inventory Management System
 
-This document outlines the setup and usage of the Inventory Management System, a WinForms application designed to manage inventory, sales, and generate reports.
+## 📌 Project Overview
+The **Inventory Management System** is a **desktop application** built with **C# and .NET WinForms**. It helps businesses efficiently track products, suppliers, stock levels, and sales transactions.
+
+### ✨ Key Features:
+✅ **Product Management** – CRUD operations, search by name/category/supplier  
+✅ **Supplier Management** – Manage supplier details and track supply history  
+✅ **Stock Management** – Monitor stock levels, get low-stock alerts, and track stock movements  
+✅ **Sales Management** – Process sales transactions, generate receipts/invoices  
+✅ **Reports & Analytics** – Generate sales reports, stock reports, and performance analysis (SSRS)  
 
 ## 🔹 Step 1: Prerequisites
 
@@ -54,9 +62,9 @@ This document outlines the setup and usage of the Inventory Management System, a
 
 | Role     | Permissions                                                                        |
 | -------- | ---------------------------------------------------------------------------------- |
-| Admin    | Manage users, products, suppliers, stock, and sales. View reports.              |
-| Manager  | Manage products, suppliers, stock. Review sales and reports.                       |
-| Staff    | Process sales transactions, add stock, generate receipts.                             |
+| Admin    | Manage users, products, suppliers, stock, and sales. View reports.                 |
+| Manager  | Manage products, stock. Review sales and reports.                                  |
+| Staff    | Process sales transactions, add stock, generate receipts.                          |
 
 ## 📷 Screenshots (Optional)
 
@@ -79,13 +87,14 @@ This document outlines the setup and usage of the Inventory Management System, a
 * ✔ Ensure SQL Server Reporting Services (SSRS) is properly installed.
 * ✔ Verify that the report server URL is correctly set in the application.
 
-## 📜 License
 
-This project is open-source under the MIT License.
 
-## 📞 Contact & Contributions
-
+## 📞 Contact 
+### Team Members:
+- Reem Atef Abdelkhaleq Heikal : 
+- Ahmed Mohamed Ramadan :
+- Mostafa Mohsen Elnahas : https://www.linkedin.com/in/mostafa-elnahas/
 Feel free to fork, contribute, or report issues! 😊
 
-* 🔗 GitHub Repository: [Inventory Management System](Replace with actual link)
+* 🔗 GitHub Repository: https://github.com/MostafaMohsen58/InventoryManagmentSystem
 * 📧 Contact: [your.email@example.com](Optional)

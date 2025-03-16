@@ -85,6 +85,19 @@ Make sure you have the following installed:
     * Password: `123456789`
 4. Start managing inventory! 🚀
 
+---
+
+## 📌 ERD (Entity Relationship Diagram)
+
+![Sample Image](https://github.com/MostafaMohsen58/ITI_Examination_System/blob/main/DB%20Schema/DB_Schema.png)
+
+---
+
+## 📊 Use Case Diagram
+
+![Sample Image](https://github.com/MostafaMohsen58/ITI_Examination_System/blob/main/DB%20Schema/DB_Schema.png)
+
+
 
 
 ---

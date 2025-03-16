@@ -53,8 +53,17 @@ Make sure you have the following installed:
 
 #### 🔹 Step 2: Database Setup
 1. Open the project in Visual Studio.
-2. Build the solution to ensure all dependencies are installed.
-3. Run database migrations using **NuGet Package Manager Console** in Visual Studio:
+2. Set DAL as startup project
+3. Create appSettings.json in DAL solution
+```bash
+{
+  "ConnectionStrings": {
+  "DefaultConnection":"Server=YOUR_SERVER;Database=InventoryDB;Trusted_Connection=True;"
+  }
+}
+```
+4. Build the solution to ensure all dependencies are correctly installed.
+5. Run database migrations using **NuGet Package Manager Console** in Visual Studio:
 
     ```bash
     Update-Database

@@ -110,6 +110,23 @@ Make sure you have the following installed:
 | Staff    | Process sales transactions, add stock, generate receipts.                          |
 
 ---
+## 📷 Screenshots
+
+Here are some screenshots of the application:
+
+### Login Screen
+
+![Login Screen](screenshots/login_screen.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.jpg)
+
+### Add new product Dialog
+
+![Add product dialog](screenshots/addProduct.png)
+
+---
 
 ### 💡 Troubleshooting & FAQs
 
